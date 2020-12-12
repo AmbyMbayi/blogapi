@@ -11,6 +11,9 @@ djangorestframework = "*"
 django-rest-swagger = "*"
 drf-yasg = "*"
 django-cors-headers = "*"
+gunicorn = "*"
+psycopg2 = "*"
+django-heroku = "*"
 
 [requires]
 python_version = "3.8"
